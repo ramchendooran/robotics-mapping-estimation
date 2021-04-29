@@ -14,4 +14,4 @@
 
 4. **Localization using particle filter**
 
-<img src="4_pose_tracking_particle_filter/particle_filter.gif"/>
+<img src="4_localization_particle_filter/particle_filter.gif"/>
